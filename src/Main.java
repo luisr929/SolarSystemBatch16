@@ -8,5 +8,10 @@ public class Main {
         omnax.planets = "2";
         omnax.star = "4";
 
+        FeatureSun xeon=new FeatureSun();
+        xeon.Name="tree";
+        xeon.size="545272";
+        xeon.temp="64625 celcius";
+
     }
 }
